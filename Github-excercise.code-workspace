@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../GitRefresh/Github-excercise"
+		},
+		{
+			"path": "../../python_work/Practice/Refresh"
+		},
+		{
+			"path": "../../Docker"
+		},
+		{
+			"path": "../../AWS-Projects"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
